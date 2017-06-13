@@ -1,0 +1,54 @@
+/* --- BODY---  */
+
+body {
+	width: 60%;
+	margin: auto;
+	padding-top: 50px;
+	font-family: Revalia;
+}
+/* --- END BODY---  */
+
+/* --- CONTAINER---  */
+.container {
+	width: 60%;
+	margin: auto;
+	border:3px dotted black;
+	padding-bottom: 70px;
+}
+/* --- END CONTAINER---  */
+
+/* --- BLOCK1---  */
+.block1 {
+	display: flex;
+	justify-content: center;
+	padding-top: 50px;
+	text-transform: uppercase;
+}
+/* --- END BLOCK1---  */
+
+/* --- SELECTOR---  */
+.selector {
+	display: flex;
+	justify-content: center;
+}
+/* --- END SELECTOR---  */
+
+/* --- BUTTON---  */
+.button {
+	display: flex;
+	justify-content: center;
+	padding-top: 20px;
+	margin-bottom: 50px;
+}
+/* --- END BUTTON---  */
+
+/* --- IMAGE---  */
+#image {
+	display: flex;
+	margin: auto;
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	border:1px solid black;
+}
+/* --- END IMAGE---  */
